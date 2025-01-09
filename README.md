@@ -37,14 +37,14 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 - Navigate to **Admin Panel -> Agents -> Roles**.
 - Add a new role called **Supreme Admin**.
-  - Define permissions for agents based on the role they will have. In this lab, we will give permissions for the Tickets, Tasks, and Knowledgebase sections.
+  - Define permissions for agents based on the role they will have.
 
 <p>
-<img src="https://i.imgur.com/9dJCITM.png" height="80%" width="80%" alt="Step 2 Lab 3"/>
+<img src="https://imgur.com/XAdPoXQ.png" height="80%" width="80%" alt="Step 2 Lab 3"/>
 </p>
 
 <p>
-<img src="https://i.imgur.com/LH17Nqu.png" height="80%" width="80%" alt="Step 2 Lab 3"/>
+<img src="https://imgur.com/CqWKHm4.png" height="80%" width="80%" alt="Step 2 Lab 3"/>
 </p>
 
 <h3>3.) Configure Departments</h3>
@@ -54,7 +54,7 @@ This tutorial outlines the post-install configuration of the open-source help de
   - Use departments to control ticket visibility and assign areas of responsibility (e.g., Help Desk, SysAdmins, Networking).
 
 <p>
-<img src="https://i.imgur.com/WmvPMtk.png" height="80%" width="80%" alt="Step 2 Lab 3"/>
+<img src="https://imgur.com/aMvPLZ0.png" height="80%" width="80%" alt="Step 2 Lab 3"/>
 </p>
 
 <h3>4.) Configure Teams</h3>
@@ -64,7 +64,7 @@ This tutorial outlines the post-install configuration of the open-source help de
   - Pull agents from different departments to form specialized teams.
 
 <p>
-<img src="https://i.imgur.com/4FEa6Y1.png" height="80%" width="80%" alt="Step 2 Lab 3"/>
+<img src="https://imgur.com/nfAhfgy.png" height="80%" width="80%" alt="Step 2 Lab 3"/>
 </p>
 
 <h3>5.) Allow Anyone to Create Tickets</h3>
@@ -74,7 +74,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Enable **Public - Anyone can register** to disable requiring users to register and log in before creating tickets.
 
 <p>
-<img src="https://i.imgur.com/zwlsNTN.png" height="80%" width="80%" alt="Step 2 Lab 3"/>
+<img src="https://imgur.com/cy4pG2Z.png" height="80%" width="80%" alt="Step 2 Lab 3"/>
 </p>
 
 <h3>6.) Configure Agents (Workers)</h3>
@@ -85,19 +85,15 @@ This tutorial outlines the post-install configuration of the open-source help de
   - **John**: Assigned to the **Support** department.
 
 <p>
-<img src="https://i.imgur.com/0Yyr2vR.png" height="80%" width="80%" alt="Step 2 Lab 3"/>
+<img src="https://imgur.com/JfsgQcX.png" height="80%" width="80%" alt="Step 2 Lab 3"/>
 </p>
 
 <p>
-<img src="https://i.imgur.com/uCV94g6.png" height="80%" width="80%" alt="Step 2 Lab 3"/>
+<img src="https://imgur.com/in2jjvm.png" height="80%" width="80%" alt="Step 2 Lab 3"/>
 </p>
 
 <p>
-<img src="https://i.imgur.com/nALrgaJ.png" height="80%" width="80%" alt="Step 2 Lab 3"/>
-</p>
-
-<p>
-<img src="https://i.imgur.com/yzZof2X.png" height="80%" width="80%" alt="Step 2 Lab 3"/>
+<img src="https://imgur.com/UzIHvtJ.png" height="80%" width="80%" alt="Step 2 Lab 3"/>
 </p>
 
 <h3>7.) Configure Users (Customers)</h3>
@@ -108,7 +104,7 @@ This tutorial outlines the post-install configuration of the open-source help de
   - **Ken**
  
 <p>
-<img src="https://i.imgur.com/xrJ8gm6.png" height="80%" width="80%" alt="Step 2 Lab 3"/>
+<img src="https://imgur.com/9SzEQ4p.png" height="80%" width="80%" alt="Step 2 Lab 3"/>
 </p>
 
 <h3>8.) Configure SLA (Service Level Agreements)</h3>
@@ -120,15 +116,11 @@ This tutorial outlines the post-install configuration of the open-source help de
   - **Sev-C**: Grace Period = 8 hours, Schedule = Business Hours.
 
 <p>
-<img src="https://i.imgur.com/cLC1cDs.png" height="80%" width="80%" alt="Step 2 Lab 3"/>
+<img src="https://imgur.com/QNQMtmC.png" height="80%" width="80%" alt="Step 2 Lab 3"/>
 </p>
 
 <p>
-<img src="https://i.imgur.com/scM2F5T.png" height="80%" width="80%" alt="Step 2 Lab 3"/>
-</p>
-
-<p>
-<img src="https://i.imgur.com/PGe4b44.png" height="80%" width="80%" alt="Step 2 Lab 3"/>
+<img src="https://imgur.com/XS5xpMb.png" height="80%" width="80%" alt="Step 2 Lab 3"/>
 </p>
 
 <h3>9.) Configure Help Topics</h3>
@@ -142,7 +134,7 @@ This tutorial outlines the post-install configuration of the open-source help de
   - **Other**
 
 <p>
-<img src="https://i.imgur.com/QkUOKCA.png" height="80%" width="80%" alt="Step 2 Lab 3"/>
+<img src="https://imgur.com/vXYJ7bQ.png" height="80%" width="80%" alt="Step 2 Lab 3"/>
 </p>
 
 <h2>Conclusion</h2>
